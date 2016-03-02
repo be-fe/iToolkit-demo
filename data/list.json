@@ -1,0 +1,9 @@
+[
+  {"id": 1, "name": "张三", "email": "zhangsan@baidu.com", "mobile": "13698765678", "level": 3, "auth":1},
+  {"id": 2, "name": "李四", "email": "lisi@baidu.com", "mobile": "13698765679", "level": 4, "auth":0},
+  {"id": 3, "name": "王五", "email": "wangwu@baidu.com", "mobile": "13698765676", "level": 5, "auth":1},
+  {"id": 4, "name": "赵六", "email": "zhaoliu@baidu.com", "mobile": "13698765674", "level": 6, "auth":0},
+  {"id": 5, "name": "刘能", "email": "liuneng@baidu.com", "mobile": "13698765673", "level": 3, "auth":1},
+  {"id": 6, "name": "郑七", "email": "zhengqi@baidu.com", "mobile": "13698765672", "level": 4, "auth":1},
+  {"id": 7, "name": "罗八", "email": "luoba@baidu.com", "mobile": "13698765671", "level": 3, "auth":1}
+]
